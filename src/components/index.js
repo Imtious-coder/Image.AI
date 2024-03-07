@@ -1,12 +1,14 @@
-import AIPicker from "./AIPicker";
-import ColorPicker from "./ColorPicker";
+import AIPicker from "./APicker.jsx";
+import ColorPicker from "./ColorPicker.jsx";
 import CustomButton from "./CustomButton.jsx";
-import FilePicker from "./FilePicker";
-import Tab from "./Tab";
+import FilePicker from "./FilePicker.jsx";
+import Tab from "./Tab.jsx";
 
 export {
   AIPicker,
-  ColorPicker, CustomButton, FilePicker,
+  ColorPicker,
+  CustomButton,
+  FilePicker,
   Tab
 };
 
