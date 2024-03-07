@@ -25,7 +25,6 @@ const Customizer = () => {
     stylishShirt: false,
   })
 
-  // show tab content depending on the activeTab
   const generateTabContent = () => {
     switch (activeEditorTab) {
       case "colorpicker":
@@ -98,8 +97,6 @@ const Customizer = () => {
         state.isFullTexture = false;
         break;
     }
-
-    // after setting the state, activeFilterTab is updated
 
     setActiveFilterTab((prevState) => {
       return {
