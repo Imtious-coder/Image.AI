@@ -16,4 +16,6 @@
 
 ##### Added custom Public, Assets, Index.css, & Config folder. Created pages, components, & canvas folder. |||| Public has icons and glbs file(3). Assets has images and index.js to import the images(7). Canvas has Index.jsx(1). Config has the config.js file, constants.js for data, helpers.js for some math, motion.js for some animation. And Index.css has some pre-written css for the web app.
 
+##### Tech & Tools: React.js, Tailwind CSS, Vite, Three.js, React-fiber-three, Framer-motion, Dalle, Git, Github, & Netlify
+
 ###### Imtious Islam
